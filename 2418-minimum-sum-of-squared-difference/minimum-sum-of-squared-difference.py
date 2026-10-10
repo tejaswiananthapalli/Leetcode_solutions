@@ -31,4 +31,3 @@ class Solution:
             min_sum_sq_diff += i * i * counts[i]
         return min_sum_sq_diff
         
-        
