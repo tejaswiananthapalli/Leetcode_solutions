@@ -20,3 +20,4 @@ class Solution:
             
         return (helper(nums)-1 +MOD)%MOD
         
+        
