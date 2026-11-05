@@ -6,5 +6,6 @@ class Solution:
                 if abs(arr1[i]-arr2[j])<=d:
                     cnt+=1
                     break
-                    
         return abs(len(arr1)-cnt)
+        
+        
