@@ -7,5 +7,3 @@ class Solution:
                     cnt+=1
                     break
         return abs(len(arr1)-cnt)
-        
-        
