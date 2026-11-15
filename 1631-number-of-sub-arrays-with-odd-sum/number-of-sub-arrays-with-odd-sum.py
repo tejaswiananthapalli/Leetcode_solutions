@@ -16,4 +16,3 @@ class Solution:
                 even_count += 1
                 
         return ans
-        
